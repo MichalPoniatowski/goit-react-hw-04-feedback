@@ -5,6 +5,8 @@ import Notification from './Notification';
 import './App.css';
 import { Component } from 'react';
 
+// star
+
 export class App extends Component {
   state = {
     good: 0,
